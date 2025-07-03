@@ -83,7 +83,7 @@ a ⋅ x(t)
 This code visualizes a **piecewise linear signal** and applies **fundamental transformations** such as scaling, shifting, and reflection. These are foundational concepts in all introductory signal processing courses and are crucial for understanding the behavior of signals in both time and frequency domains.
 
 ---
-## 🖼️ Example Plot (optional)
+## 🖼️ Example Plot 
 
 Signal samples:
 
