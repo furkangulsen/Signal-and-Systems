@@ -85,7 +85,7 @@ This code visualizes a **piecewise linear signal** and applies **fundamental tra
 ---
 ## 🖼️ Example Plot (optional)
 
-If you have a plot image, include it like this:
+Signal samples:
 
 ![Transformed Signal 1](1.png)  
 ![Transformed Signal 2](2.png)  
